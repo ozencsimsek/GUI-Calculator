@@ -1,0 +1,25 @@
+Do not forget to use paranthesis ' )' if necessary .
+
+
+ans: includes number to memory.
+
+
+del: deletes numbers from right to left.
+
+
+mod: gives you a modulo value 
+(Do not forget to use comma (,) )
+Ex: result for 5 mod 2: mod(5,2)=1 
+
+
+1/x: inverse of a number. 
+
+
+x²: square of a number. 
+
+
+S<>D: standart and decimal format conversation  
+
+
+Özenç Şimşek
+
